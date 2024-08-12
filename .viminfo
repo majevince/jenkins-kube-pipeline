@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1723439215,,"wq"
+|2,0,1723439371,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -52,36 +52,50 @@
 |3,0,9,1,1,0,1723439207,"        always {"
 
 # File marks:
-'0  29  0  ~/Jenkinsfile
-|4,48,29,0,1723439215,"~/Jenkinsfile"
-'1  1  53  ~/Jenkinsfile
-|4,49,1,53,1723438914,"~/Jenkinsfile"
-'2  8  53  ~/Jenkinsfile
-|4,50,8,53,1723438914,"~/Jenkinsfile"
-'3  1  0  ~/Jenkinsfile
-|4,51,1,0,1723438402,"~/Jenkinsfile"
-'4  7  0  ~/Jenkinsfile
-|4,52,7,0,1723438402,"~/Jenkinsfile"
-'5  30  0  ~/Jenkinsfile
-|4,53,30,0,1723438402,"~/Jenkinsfile"
-'6  36  0  ~/Jenkinsfile
-|4,54,36,0,1723438402,"~/Jenkinsfile"
-'7  35  0  ~/deployment-nginx.yaml
-|4,55,35,0,1723438379,"~/deployment-nginx.yaml"
-'8  12  14  ~/jenkins-cluster.yml
-|4,56,12,14,1723435705,"~/jenkins-cluster.yml"
-'9  8  0  ~/jenkins-account-service.yaml
-|4,57,8,0,1723435646,"~/jenkins-account-service.yaml"
+'0  5  50  ~/Jenkinsfile
+|4,48,5,50,1723439372,"~/Jenkinsfile"
+'1  29  0  ~/Jenkinsfile
+|4,49,29,0,1723439215,"~/Jenkinsfile"
+'2  29  0  ~/Jenkinsfile
+|4,50,29,0,1723439215,"~/Jenkinsfile"
+'3  1  53  ~/Jenkinsfile
+|4,51,1,53,1723438914,"~/Jenkinsfile"
+'4  8  53  ~/Jenkinsfile
+|4,52,8,53,1723438914,"~/Jenkinsfile"
+'5  1  53  ~/Jenkinsfile
+|4,53,1,53,1723438914,"~/Jenkinsfile"
+'6  8  53  ~/Jenkinsfile
+|4,54,8,53,1723438914,"~/Jenkinsfile"
+'7  1  0  ~/Jenkinsfile
+|4,55,1,0,1723438402,"~/Jenkinsfile"
+'8  7  0  ~/Jenkinsfile
+|4,56,7,0,1723438402,"~/Jenkinsfile"
+'9  30  0  ~/Jenkinsfile
+|4,57,30,0,1723438402,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
 -'  29  0  ~/Jenkinsfile
 |4,39,29,0,1723439215,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1723439194,"~/Jenkinsfile"
 -'  8  53  ~/Jenkinsfile
 |4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  7  0  ~/Jenkinsfile
+|4,39,7,0,1723438402,"~/Jenkinsfile"
+-'  30  0  ~/Jenkinsfile
+|4,39,30,0,1723438402,"~/Jenkinsfile"
+-'  36  0  ~/Jenkinsfile
+|4,39,36,0,1723438402,"~/Jenkinsfile"
 -'  7  0  ~/Jenkinsfile
 |4,39,7,0,1723438402,"~/Jenkinsfile"
 -'  30  0  ~/Jenkinsfile
@@ -106,6 +120,38 @@
 |4,39,35,0,1723438379,"~/deployment-nginx.yaml"
 -'  35  0  ~/deployment-nginx.yaml
 |4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  35  0  ~/deployment-nginx.yaml
+|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
+-'  1  0  ~/deployment-nginx.yaml
+|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
 -'  1  0  ~/deployment-nginx.yaml
 |4,39,1,0,1723438369,"~/deployment-nginx.yaml"
 -'  1  0  ~/deployment-nginx.yaml
@@ -154,6 +200,38 @@
 |4,39,12,14,1723435705,"~/jenkins-cluster.yml"
 -'  12  14  ~/jenkins-cluster.yml
 |4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
+-'  12  14  ~/jenkins-cluster.yml
+|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
 -'  1  0  ~/jenkins-cluster.yml
 |4,39,1,0,1723435692,"~/jenkins-cluster.yml"
 -'  1  0  ~/jenkins-cluster.yml
@@ -186,107 +264,30 @@
 |4,39,1,0,1723435692,"~/jenkins-cluster.yml"
 -'  1  0  ~/jenkins-cluster.yml
 |4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  8  0  ~/jenkins-account-service.yaml
-|4,39,8,0,1723435646,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
--'  1  0  ~/jenkins-account-service.yaml
-|4,39,1,0,1723435606,"~/jenkins-account-service.yaml"
+-'  1  0  ~/jenkins-cluster.yml
+|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
+-'  1  0  ~/jenkins-cluster.yml
+|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
+-'  1  0  ~/jenkins-cluster.yml
+|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
+-'  1  0  ~/jenkins-cluster.yml
+|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
+-'  1  0  ~/jenkins-cluster.yml
+|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1723439214	0
-	"	29	0
-	^	29	0
-	.	28	1
+	*	1723439370	0
+	"	5	50
+	^	5	51
+	.	5	50
 	+	1	1
 	+	1	0
 	+	1	53
 	+	1	10
 	+	28	1
+	+	5	50
 
 > ~/deployment-nginx.yaml
 	*	1723438378	0
