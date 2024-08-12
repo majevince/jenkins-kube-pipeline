@@ -6,13 +6,6 @@ pipeline {
     }
 
     stages {
-        stage('Clone Repository') {
-            steps {
-                // Checkout the repository containing the Kubernetes deployment file
-                git url: 'https://github.com/your-repo/nginx-kube-deployment.git'
-            }
-        }
-
         stage('Deploy to Kubernetes') {
             steps {
                 script {
