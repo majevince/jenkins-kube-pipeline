@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1723439371,,"wq"
+|2,0,1723442715,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -52,42 +52,204 @@
 |3,0,9,1,1,0,1723439207,"        always {"
 
 # File marks:
-'0  5  50  ~/Jenkinsfile
-|4,48,5,50,1723439372,"~/Jenkinsfile"
-'1  29  0  ~/Jenkinsfile
-|4,49,29,0,1723439215,"~/Jenkinsfile"
-'2  29  0  ~/Jenkinsfile
-|4,50,29,0,1723439215,"~/Jenkinsfile"
-'3  1  53  ~/Jenkinsfile
-|4,51,1,53,1723438914,"~/Jenkinsfile"
-'4  8  53  ~/Jenkinsfile
-|4,52,8,53,1723438914,"~/Jenkinsfile"
-'5  1  53  ~/Jenkinsfile
-|4,53,1,53,1723438914,"~/Jenkinsfile"
-'6  8  53  ~/Jenkinsfile
-|4,54,8,53,1723438914,"~/Jenkinsfile"
-'7  1  0  ~/Jenkinsfile
-|4,55,1,0,1723438402,"~/Jenkinsfile"
-'8  7  0  ~/Jenkinsfile
-|4,56,7,0,1723438402,"~/Jenkinsfile"
-'9  30  0  ~/Jenkinsfile
-|4,57,30,0,1723438402,"~/Jenkinsfile"
+'0  24  24  ~/Jenkinsfile
+|4,48,24,24,1723442715,"~/Jenkinsfile"
+'1  13  0  ~/jenkins-clusterrolebinding.yaml
+|4,49,13,0,1723441323,"~/jenkins-clusterrolebinding.yaml"
+'2  18  0  ~/jenkins-clusterrole.yaml
+|4,50,18,0,1723441213,"~/jenkins-clusterrole.yaml"
+'3  1  0  ~/nginx-deployment.yaml
+|4,51,1,0,1723439847,"~/nginx-deployment.yaml"
+'4  5  50  ~/Jenkinsfile
+|4,52,5,50,1723439372,"~/Jenkinsfile"
+'5  5  50  ~/Jenkinsfile
+|4,53,5,50,1723439372,"~/Jenkinsfile"
+'6  29  0  ~/Jenkinsfile
+|4,54,29,0,1723439215,"~/Jenkinsfile"
+'7  29  0  ~/Jenkinsfile
+|4,55,29,0,1723439215,"~/Jenkinsfile"
+'8  29  0  ~/Jenkinsfile
+|4,56,29,0,1723439215,"~/Jenkinsfile"
+'9  29  0  ~/Jenkinsfile
+|4,57,29,0,1723439215,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  24  24  ~/Jenkinsfile
+|4,39,24,24,1723442715,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723442687,"~/Jenkinsfile"
+-'  13  0  ~/jenkins-clusterrolebinding.yaml
+|4,39,13,0,1723441323,"~/jenkins-clusterrolebinding.yaml"
+-'  13  0  ~/jenkins-clusterrolebinding.yaml
+|4,39,13,0,1723441323,"~/jenkins-clusterrolebinding.yaml"
+-'  1  0  ~/jenkins-clusterrolebinding.yaml
+|4,39,1,0,1723441315,"~/jenkins-clusterrolebinding.yaml"
+-'  1  0  ~/jenkins-clusterrolebinding.yaml
+|4,39,1,0,1723441315,"~/jenkins-clusterrolebinding.yaml"
+-'  18  0  ~/jenkins-clusterrole.yaml
+|4,39,18,0,1723441213,"~/jenkins-clusterrole.yaml"
+-'  18  0  ~/jenkins-clusterrole.yaml
+|4,39,18,0,1723441213,"~/jenkins-clusterrole.yaml"
+-'  18  0  ~/jenkins-clusterrole.yaml
+|4,39,18,0,1723441213,"~/jenkins-clusterrole.yaml"
+-'  18  0  ~/jenkins-clusterrole.yaml
+|4,39,18,0,1723441213,"~/jenkins-clusterrole.yaml"
+-'  1  0  ~/jenkins-clusterrole.yaml
+|4,39,1,0,1723441202,"~/jenkins-clusterrole.yaml"
+-'  1  0  ~/jenkins-clusterrole.yaml
+|4,39,1,0,1723441202,"~/jenkins-clusterrole.yaml"
+-'  1  0  ~/jenkins-clusterrole.yaml
+|4,39,1,0,1723441202,"~/jenkins-clusterrole.yaml"
+-'  1  0  ~/jenkins-clusterrole.yaml
+|4,39,1,0,1723441202,"~/jenkins-clusterrole.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
+-'  1  0  ~/nginx-deployment.yaml
+|4,39,1,0,1723439847,"~/nginx-deployment.yaml"
 -'  5  50  ~/Jenkinsfile
 |4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  5  50  ~/Jenkinsfile
+|4,39,5,50,1723439372,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439317,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1723439317,"~/Jenkinsfile"
 -'  29  0  ~/Jenkinsfile
 |4,39,29,0,1723439215,"~/Jenkinsfile"
 -'  29  0  ~/Jenkinsfile
 |4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1723439215,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723439194,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1723439194,"~/Jenkinsfile"
 -'  8  53  ~/Jenkinsfile
 |4,39,8,53,1723438914,"~/Jenkinsfile"
 -'  8  53  ~/Jenkinsfile
 |4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  8  53  ~/Jenkinsfile
+|4,39,8,53,1723438914,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1723438812,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1723438812,"~/Jenkinsfile"
 -'  7  0  ~/Jenkinsfile
@@ -102,192 +264,51 @@
 |4,39,30,0,1723438402,"~/Jenkinsfile"
 -'  36  0  ~/Jenkinsfile
 |4,39,36,0,1723438402,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1723438389,"~/Jenkinsfile"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  35  0  ~/deployment-nginx.yaml
-|4,39,35,0,1723438379,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  1  0  ~/deployment-nginx.yaml
-|4,39,1,0,1723438369,"~/deployment-nginx.yaml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  12  14  ~/jenkins-cluster.yml
-|4,39,12,14,1723435705,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
--'  1  0  ~/jenkins-cluster.yml
-|4,39,1,0,1723435692,"~/jenkins-cluster.yml"
+-'  7  0  ~/Jenkinsfile
+|4,39,7,0,1723438402,"~/Jenkinsfile"
+-'  30  0  ~/Jenkinsfile
+|4,39,30,0,1723438402,"~/Jenkinsfile"
+-'  36  0  ~/Jenkinsfile
+|4,39,36,0,1723438402,"~/Jenkinsfile"
+-'  7  0  ~/Jenkinsfile
+|4,39,7,0,1723438402,"~/Jenkinsfile"
+-'  30  0  ~/Jenkinsfile
+|4,39,30,0,1723438402,"~/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1723439370	0
-	"	5	50
-	^	5	51
-	.	5	50
+	*	1723442714	0
+	"	24	24
+	^	24	25
+	.	24	24
 	+	1	1
 	+	1	0
 	+	1	53
 	+	1	10
 	+	28	1
 	+	5	50
+	+	13	28
+	+	23	24
+	+	24	24
+
+> ~/jenkins-clusterrolebinding.yaml
+	*	1723441322	0
+	"	13	0
+	^	13	0
+	.	12	20
+	+	12	20
+
+> ~/jenkins-clusterrole.yaml
+	*	1723441212	0
+	"	18	0
+	^	18	0
+	.	17	72
+	+	17	72
+
+> ~/nginx-deployment.yaml
+	*	1723439845	0
+	"	1	0
 
 > ~/deployment-nginx.yaml
 	*	1723438378	0

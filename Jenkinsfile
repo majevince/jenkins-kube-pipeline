@@ -10,7 +10,7 @@ pipeline {
             steps {
                 script {
                     // Apply the Kubernetes deployment
-                    sh 'kubectl apply -f nginx-deployment.yaml'
+                    sh 'sudo kubectl apply -f nginx-deployment.yaml'
                 }
             }
         }
@@ -20,8 +20,8 @@ pipeline {
         always {
             script {
                 // Show the status of the deployment
-                sh 'kubectl get deployments'
-                sh 'kubectl get services'
+                sh 'sudo kubectl get deployments'
+                sh 'sudo kubectl get services'
             }
         }
     }
