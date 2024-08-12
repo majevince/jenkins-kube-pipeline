@@ -1,0 +1,8 @@
+---
+# jenkins-service-account.yaml
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: jenkins
+  namespace: default
+
