@@ -1,5 +1,5 @@
 pipeline {
-    agent  Kubernetes
+    agent  any
 
     environment {
         KUBE_CONFIG = credentials('kubernetes-token')
