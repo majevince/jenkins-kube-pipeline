@@ -10,7 +10,7 @@ pipeline {
             steps {
                 script {
                     // Apply the Kubernetes deployment
-                    sh 'sudo kubectl apply -f nginx-deployment.yaml'
+                    sh 'sudo kubectl apply -f nginx-deployment.yaml --validate=false'
                 }
             }
         }
